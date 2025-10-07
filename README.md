@@ -52,9 +52,7 @@ I focus on delivering modern UI/UX using **React.js**, **Redux**, **TypeScript**
 
 ---
 
-### 📈 GitHub Stats
 
-![Gokul Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=gokulrajkn&show_icons=true&theme=radical)
 
 ---
 
